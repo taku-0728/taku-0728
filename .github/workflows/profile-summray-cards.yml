@@ -12,8 +12,8 @@ jobs:
 
     steps:
       - uses: actions/checkout@722adc63f1aa60a57ec37892e133b1d319cae598
-      - uses: vn7n24fzkq/github-profile-summary-cards@3238da84fa5587f0b7f4173fdab444c2254563a5
+      - uses: vn7n24fzkq/github-profile-summary-cards@60037b0260fa7a85c97e3fe9f9e185e450dc82fe
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
