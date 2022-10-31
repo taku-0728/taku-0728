@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/taku-0728/taku-0728/main/profile-summary-card-output/solarized/4-productive-time.svg)
+```
+
+    
