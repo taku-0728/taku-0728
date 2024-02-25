@@ -42,3 +42,23 @@
 ```
 
     
+
+---
+
+![](./3-stats.svg)
+
+```
+![](https://raw.githubusercontent.com/taku-0728/taku-0728/main/profile-summary-card-output/github/3-stats.svg)
+```
+
+    
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/taku-0728/taku-0728/main/profile-summary-card-output/github/4-productive-time.svg)
+```
+
+    
